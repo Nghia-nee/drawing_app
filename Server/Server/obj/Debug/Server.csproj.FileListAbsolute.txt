@@ -1,0 +1,11 @@
+D:\Desktop\drawing_app\Server\Server\bin\Debug\Server.exe.config
+D:\Desktop\drawing_app\Server\Server\bin\Debug\Server.exe
+D:\Desktop\drawing_app\Server\Server\bin\Debug\Server.pdb
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.exe
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.pdb
+D:\Desktop\drawing_app\Server\Server\obj\Debug\Server.Manage.resources
